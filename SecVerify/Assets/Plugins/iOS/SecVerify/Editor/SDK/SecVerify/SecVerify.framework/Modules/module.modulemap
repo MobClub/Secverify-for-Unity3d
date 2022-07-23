@@ -1,6 +1,0 @@
-framework module SecVerify {
-    umbrella header "SecVerify-umbrella.h"
-    
-    export *
-    module * { export * }
-}
